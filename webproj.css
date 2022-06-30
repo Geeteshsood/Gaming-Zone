@@ -1,0 +1,92 @@
+.up_div{
+    margin-top: 10rem;
+    color:#EEEEEE;
+}
+.up_head{
+    font-size: 4rem;
+}
+.up_con{
+   font-size: 2.5rem;
+}
+.dis{
+     margin-top: 5rem;
+     height:auto;
+     width: auto;
+     display:flex;
+     justify-content: space-between;
+}
+.left_div{
+    color:#EEEEEE;
+    width: 40%;
+    height: auto;
+    margin-left: 5%;
+}
+.left_head{
+    font-size: 3rem;
+    margin: 0 2rem;
+    margin-top: 4rem;
+    text-align: center;
+}
+.con-text:hover{
+   color: #bffcff;
+}
+.con-text{
+    font-weight: 700;
+    font-size: 2rem;
+    line-height: 4.5rem;
+    margin: 0 2rem;
+    margin-top: 3rem;
+}
+.right_div{
+    margin-right: 5%;
+    width: 40%;
+    color: #EEEEEE;
+}
+.name-bg,.email-bg,.msg-bg{
+    font-size: 3rem;
+    margin-bottom: 1rem;
+}
+.contact_form_name,.contact_form_email,.contact_form_msg{
+    font-size: 1.5rem;
+    padding:0.8rem 0.4rem;
+    width: 100%;
+    height:auto;
+    color: #EEEEEE;
+    background-color: transparent;
+
+}
+.container{
+    margin-top: 3rem;
+}
+.msg{
+    height: 8rem;
+    width: 100%;
+}
+.sub_btn{
+    font-weight: 500;
+    margin-top: 2rem;
+    height: 4rem;
+    width:auto;
+    font-size: 2rem;
+    background-color: black;
+    color: #EEEEEE;
+    padding: 0.5rem;
+}
+
+
+                                    /*SOCIAL ICONS*/
+.icons{
+    width: 60%;
+    height: auto;
+    margin-top: 5rem;
+    display: flex;
+    justify-content: space-evenly;
+}
+.icon a{
+    font-size: 6rem;
+}
+.in  a{color: #FC466B;}
+.tw  a{color: rgb(29, 155, 240);}
+.you a{color: #FF0000;}
+.lin a{color: #1a0dab;}
+
