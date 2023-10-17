@@ -1,0 +1,58 @@
+body{
+    font-family:cursive;
+    background-color:rgb(12, 31, 31);
+
+}
+
+.container{
+    box-shadow: 5px 5px rgb(12, 31, 31), 10px 10px rgba(238,85,100,255), 15px 15px rgb(12, 31, 31), 20px 20px rgba(238,85,100,255);
+    background-color:rgba(238,85,100,255);
+    width:1200px;
+    height:680px;
+    margin-left: 100px;
+    margin-right: 100px;
+    color:black;
+    text-align: center;
+    padding: 20px;
+    align: center;
+    
+}
+
+#sec,#min{
+    font-size:2.5rem;
+}
+
+#dot{
+    font-size:2rem;
+}
+
+p{
+    position: relative;
+}
+
+button{
+    width:125px;
+    height: 50px;
+    background-color:black;
+    opacity:75%;
+    border: 2px solid white;
+    color: white;
+}
+
+#btn{
+    opacity: 300%;
+    font-size: 1.25rem;   
+}
+
+button:hover{
+  border: 2px solid black;  
+  background-color: #EEEEEE;
+  color: black;
+  font-weight: 700;
+  font-style: italic;
+}
+
+h2{
+    font-family: cursive;
+    font-size: 3rem;
+}
