@@ -1,0 +1,57 @@
+*{
+   margin: 0;
+   padding: 0;
+   box-sizing: border-box;
+   font-family: 'Merriweather', serif;
+}
+html{
+    font-size: 62.5%;
+}
+header{
+    width: 100%;
+    height:100%;
+    background:#bffcff;
+ } 
+ .bg_img{
+   background-image: url(4127298.jpg);
+   background-size: 100% 100%;
+ }  
+.cet{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 1rem 0;
+}
+.skill{
+    width: 100%;
+    height: auto;
+}
+#skill_head{
+    font-size: 5rem;
+    color:#2489bc;
+    text-align: center;
+    letter-spacing: 3px;
+}
+.text{
+    font-size: 2rem;
+    padding:0 5rem;
+    text-align: center;
+}
+.diff_skill{
+   margin-top: 5rem;
+   height: 100%;
+   width:100%;
+}
+.items{
+    margin-top: 2rem;
+    height: auto;
+    font-size: 2.3rem;
+    letter-spacing: 1px;
+    color: #EEEEEE;
+}
+.a:hover{background-color:#EEEEEE; color:#2489bc;}
+.b:hover{background-color:#EEEEEE; color:#2489bc;}
+.c:hover{background-color:#EEEEEE; color:#2489bc;}
+.d:hover{background-color:#EEEEEE; color:#2489bc;}
+.e:hover{background-color:#EEEEEE; color:#2489bc;}
+.f:hover{background-color:#EEEEEE; color:#2489bc;}
